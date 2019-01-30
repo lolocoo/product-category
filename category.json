@@ -1,0 +1,160 @@
+{
+    "website": "https://www.amazon.cn/gp/cb/metrics/ref=cncb_m_D2016156051?which=",
+    "data": [
+        {
+            "id": "D746776051",
+            "alias": "beauty",
+            "name": "美容化妆"
+        },
+        {
+            "id": "D2016156051",
+            "alias": "apparel",
+            "name": "服饰箱包"
+        },
+        {
+            "id": "D2029189051",
+            "alias": "shoes",
+            "name": "鞋靴"
+        },
+        {
+            "id": "D852803051",
+            "alias": "hpc",
+            "name": "个护健康"
+        },
+        {
+            "id": "D42692071",
+            "alias": "baby",
+            "name": "母婴用品"
+        },
+        {
+            "id": "D647070051",
+            "alias": "toys-and-games",
+            "name": "玩具"
+        },
+        {
+            "id": "D658390051",
+            "alias": "stripbooks",
+            "name": "图书"
+        },
+        {
+            "id": "D2127215051",
+            "alias": "grocery",
+            "name": "食品"
+        },
+        {
+            "id": "D43234071",
+            "alias": "wine",
+            "name": "酒水"
+        },
+        {
+            "id": "D836312051",
+            "alias": "sporting",
+            "name": "运动户外"
+        },
+        {
+            "id": "D813108051",
+            "alias": "kitchen",
+            "name": "厨具"
+        },
+        {
+            "id": "D814224051",
+            "alias": "home-appliances",
+            "name": "小家电"
+        },
+        {
+            "id": "D831780051",
+            "alias": "home-substore",
+            "name": "家居生活"
+        },
+        {
+            "id": "D1952920051",
+            "alias": "home-improvement",
+            "name": "装修建材"
+        },
+        {
+            "id": "D664978051",
+            "alias": "communications",
+            "name": "手机通讯"
+        },
+        {
+            "id": "D80207071",
+            "alias": "appliances",
+            "name": "大家电"
+        },
+        {
+            "id": "D1953164051",
+            "alias": "watches",
+            "name": "钟表"
+        },
+        {
+            "id": "D816482051",
+            "alias": "jewelry",
+            "name": "珠宝首饰"
+        },
+        {
+            "id": "D2127221051",
+            "alias": "office-products",
+            "name": "办公用品"
+        },
+        {
+            "id": "D1947899051",
+            "alias": "automotive",
+            "name": "汽车用品"
+        },
+        {
+            "id": "D2127218051",
+            "alias": "mi",
+            "name": "乐器"
+        },
+        {
+            "id": "D311868071",
+            "alias": "gift-cards",
+            "name": "礼品卡"
+        },
+        {
+            "id": "D42689071",
+            "alias": "computers",
+            "name": "电脑产品"
+        },
+        {
+            "id": "D760233051",
+            "alias": "music-players",
+            "name": "数码影音"
+        },
+        {
+            "id": "D874259051",
+            "alias": "audio-visual",
+            "name": "电视音响"
+        },
+        {
+            "id": "D755653051",
+            "alias": "photo-video",
+            "name": "摄影摄像"
+        },
+        {
+            "id": "D754386051",
+            "alias": "music",
+            "name": "音乐"
+        },
+        {
+            "id": "D897415051",
+            "alias": "videogames",
+            "name": "游戏娱乐"
+        },
+        {
+            "id": "D2016136051",
+            "alias": "video",
+            "name": "音像"
+        },
+        {
+            "id": "D118863071",
+            "alias": "pets",
+            "name": "宠物用品"
+        },
+        {
+            "id": "D387915071",
+            "alias": "warehouse-deals",
+            "name": "Z实惠"
+        }
+    ]
+}
