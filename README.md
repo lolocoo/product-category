@@ -1,2 +1,2 @@
-# products-category
+# product-category
 products category
